@@ -1,0 +1,71 @@
+2024-11-22 08:08:11,017 - INFO - Initial TVL retrieved: $3,690,650,390.11
+2024-11-22 08:08:18,723 - ERROR - Failed to send email: (421, b'Service not available')
+2024-11-22 08:08:18,725 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-22 08:09:45,744 - ERROR - Failed to send email: (421, b'Service not available')
+2024-11-22 08:09:45,746 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-22 08:10:52,162 - ERROR - Failed to send email: (421, b'Service not available')
+2024-11-22 08:10:52,164 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-22 08:12:05,869 - ERROR - Failed to send email: (421, b'Service not available')
+2024-11-22 08:12:05,871 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-22 08:13:07,779 - ERROR - Attempt 1 failed to fetch TVL: ('Connection broken: IncompleteRead(4223 bytes read, 6017 more expected)', IncompleteRead(4223 bytes read, 6017 more expected))
+2024-11-22 08:13:27,743 - ERROR - Attempt 2 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out.
+2024-11-22 08:13:44,425 - ERROR - Failed to send email: (421, b'Service not available')
+2024-11-22 08:13:44,427 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-22 08:15:08,958 - ERROR - Failed to send email: (421, b'Service not available')
+2024-11-22 08:15:08,959 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-22 08:16:31,360 - ERROR - Attempt 1 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out.
+2024-11-22 08:17:01,569 - ERROR - Attempt 2 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out.
+2024-11-22 08:17:33,597 - ERROR - Attempt 3 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Max retries exceeded with url: /protocol/base-bridge (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001652357F050>, 'Connection to api.llama.fi timed out. (connect timeout=10)'))
+2024-11-22 08:17:35,600 - ERROR - Error fetching TVL: Failed to fetch TVL after multiple attempts
+2024-11-22 08:17:35,601 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-22 08:18:47,280 - ERROR - Failed to send email: (421, b'Service not available')
+2024-11-22 08:18:47,281 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-22 08:20:22,684 - ERROR - Attempt 1 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out.
+2024-11-22 08:20:54,713 - ERROR - Attempt 2 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Max retries exceeded with url: /protocol/base-bridge (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001652357E270>, 'Connection to api.llama.fi timed out. (connect timeout=10)'))
+2024-11-22 08:21:06,718 - INFO - TVL Monitoring stopped by the user.
+2024-11-22 20:43:17,034 - ERROR - Attempt 1 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out.
+2024-11-22 20:43:36,410 - ERROR - Attempt 2 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out. (read timeout=10)
+2024-11-22 20:43:45,101 - ERROR - Attempt 3 failed to fetch TVL: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-11-22 20:43:47,103 - ERROR - Failed to initialize TVL state: Failed to fetch TVL after multiple attempts
+2024-11-22 20:47:10,595 - ERROR - Attempt 1 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out. (read timeout=10)
+2024-11-22 20:47:44,264 - ERROR - Attempt 2 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out.
+2024-11-22 20:48:38,753 - INFO - Initial TVL retrieved: $3,601,512,001.98
+2024-11-22 20:49:25,851 - ERROR - Attempt 1 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out.
+2024-11-22 20:49:59,553 - ERROR - Attempt 2 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out. (read timeout=10)
+2024-11-22 21:22:36,237 - ERROR - Attempt 3 failed to fetch TVL: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-11-22 21:22:38,424 - ERROR - Error fetching TVL: Failed to fetch TVL after multiple attempts
+2024-11-22 21:22:38,595 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:14:36,175 - INFO - Initial TVL retrieved: $3,656,605,040.81
+2024-11-23 03:14:50,970 - ERROR - Failed to send email: Connection unexpectedly closed
+2024-11-23 03:14:50,971 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:16:05,809 - ERROR - Failed to send email: Connection unexpectedly closed
+2024-11-23 03:16:05,810 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:17:42,538 - INFO - Initial TVL retrieved: $3,656,605,040.81
+2024-11-23 03:17:58,040 - ERROR - Failed to send email: Connection unexpectedly closed
+2024-11-23 03:17:58,045 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:19:11,440 - ERROR - Attempt 1 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out.
+2024-11-23 03:19:29,380 - INFO - TVL Monitoring stopped by the user.
+2024-11-23 03:19:35,093 - INFO - Initial TVL retrieved: $3,656,605,040.81
+2024-11-23 03:19:41,190 - ERROR - Failed to send email: (421, b'Service not available')
+2024-11-23 03:19:41,196 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:21:08,606 - ERROR - Attempt 1 failed to fetch TVL: HTTPSConnectionPool(host='api.llama.fi', port=443): Read timed out.
+2024-11-23 03:21:19,549 - INFO - TVL Monitoring stopped by the user.
+2024-11-23 03:21:51,580 - INFO - Initial TVL retrieved: $3,656,605,040.81
+2024-11-23 03:22:01,993 - INFO - Email sent successfully to: ['abeenoch@yahoo.com', 'michealadereti484@gmail.com']
+2024-11-23 03:22:01,995 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:23:12,708 - INFO - Email sent successfully to: ['abeenoch@yahoo.com', 'michealadereti484@gmail.com']
+2024-11-23 03:23:12,911 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:24:39,367 - ERROR - Error fetching email list: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-11-23 03:24:39,448 - WARNING - No email addresses found. Skipping email alert.
+2024-11-23 03:24:39,523 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:26:53,203 - INFO - Email sent successfully to: ['abeenoch@yahoo.com', 'michealadereti484@gmail.com']
+2024-11-23 03:26:53,249 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:28:04,995 - INFO - Email sent successfully to: ['abeenoch@yahoo.com', 'michealadereti484@gmail.com']
+2024-11-23 03:28:05,003 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:29:22,263 - INFO - Email sent successfully to: ['abeenoch@yahoo.com', 'michealadereti484@gmail.com']
+2024-11-23 03:29:22,270 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:30:36,350 - INFO - Email sent successfully to: ['abeenoch@yahoo.com', 'michealadereti484@gmail.com']
+2024-11-23 03:30:36,351 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:31:49,519 - INFO - Email sent successfully to: ['abeenoch@yahoo.com', 'michealadereti484@gmail.com']
+2024-11-23 03:31:49,521 - INFO - TVL Monitoring completed. Waiting for the next cycle...
+2024-11-23 03:31:51,792 - INFO - TVL Monitoring stopped by the user.
