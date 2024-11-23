@@ -217,6 +217,6 @@ try:
     while True:
         state = tvl_monitor_logic(state, api_url)
         logging.info("TVL Monitoring completed. Waiting for the next cycle...")
-        time.sleep(60)  # Wait 1 minute (for testing purposes)
+        time.sleep(8*3600)  # Wait 1 minute (for testing purposes)
 except KeyboardInterrupt:
     logging.info("TVL Monitoring stopped by the user.")
