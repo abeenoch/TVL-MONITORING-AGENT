@@ -189,8 +189,6 @@ def tvl_monitor_logic(state: TVLMonitorState, api_url: str):
 # Initialize monitoring state
 state = load_state()
 
-# Initialize monitoring state
-state = load_state()
 
 # Load the API URL from the .env file
 api_url = os.getenv("APPS_SCRIPT_API_URL")
